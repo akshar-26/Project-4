@@ -1,0 +1,170 @@
+body{
+    background-image: url('img/back.png');
+    background-repeat: no-repeat;
+    background-size: 100% 52%;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* Additional styling for h1 */
+/* Additional styling for body */
+/* Additional styling for body */
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('img/back.png');
+    background-repeat: no-repeat;
+    background-size: 100% 52%;
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+}
+
+/* Additional styling for h1 */
+h1 {
+    margin-top: 10%;
+    text-align: center;
+    color: #FFA500; /* Orange color */
+    font-size: 3em;
+}
+
+/* Additional styling for seller_reg and seller_login */
+.seller_reg, .seller_login {
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: sandybrown; /* Light orange */
+}
+
+/* Additional styling for h3 */
+h3 {
+    border: 2px solid #e4a93d; /* Orange color */
+    background-color: #FFA500; /* Orange color */
+    width: 40%;
+    color: #333;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+    clear: both;
+    border-radius: 10px;
+}
+
+/* Additional styling for buyer_reg and buyer_login */
+.buyer_reg, .buyer_login {
+    width: 30%;
+    float: right;
+    margin-top: 20px;
+    margin-right: 1%;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: sandybrown; /* Light orange */
+}
+
+/* Additional styling for vl and vl_login */
+.vl, .vl_login {
+    border-left: 4px solid #FFA500; /* Orange color */
+    height: 350px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    margin-top: 0%;
+}
+
+/* Additional styling for input[type=text], input[type=password], input[type=email] */
+input[type=text], input[type=password], input[type=email] {
+    border: 2px solid #FFA500; /* Orange color */
+    border-radius: 8px;
+    background-color: #FFECB3; /* Lighter orange */
+    width: 80%;
+    height: 40px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 1em;
+}
+
+/* Additional styling for input[type=submit] */
+input[type=submit] {
+    margin-left: 5%;
+    border: 2px solid #FFA500; /* Orange color */
+    border-radius: 15px;
+    background-color: #FFA500; /* Orange color */
+    width: 70%;
+    height: 40px;
+    color: white;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+
+/* Additional styling for input placeholders */
+input[type="text"]::placeholder,
+input[type="password"]::placeholder,
+input[type="email"]::placeholder {
+    text-align: center;
+    color: #B8860B; /* Darker orange */
+}
+
+/* Additional styling for redirect */
+/* Additional styling for redirect */
+.redirect {
+    text-align: center;
+    margin: 20px auto; /* Center the div horizontally with top and bottom margin */
+    width: 20%; /* Set the width to 20% of the parent container */
+    border: 2px solid #FFA500; /* Orange color */
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #FFECB3; /* Lighter orange */
+}
+
+/* Additional styling for redirect h4 */
+.redirect h4 {
+    color: black;
+    font-size: 1.5em;
+}
+
+/* Additional styling for redirect a */
+.redirect a {
+    color: #FFA500; /* Orange color */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+/* Additional styling for redirect a on hover */
+.redirect a:hover {
+    color: #FFD700; /* Light orange on hover */
+}
+
+.redirecta {
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: sandybrown;
+}
+
+.redirecta h3 {
+    color: white;
+    font-size: 1.5em;
+}
+
+.redirecta a {
+    color: sandybrown;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.redirecta a:hover {
+    color: #FFF;
+}
+h2{
+        border: 2px solid #e4a93d; /* Orange color */
+        background-color: #FFA500; /* Orange color */
+        width: 40%;
+        color: #333;
+        padding: 10px;
+        text-align: center;
+        margin-top: -250px;
+        clear: both;
+        border-radius: 10px;
+
+}
